@@ -1,0 +1,19 @@
+{
+  "name": "stork-data-tools",
+  "version": "1.0.0",
+  "description": "Data Tools for Salesforce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduardoMS027/stork-data-tools.git"
+  },
+  "author": "Stork Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduardoMS027/stork-data-tools/issues"
+  },
+  "homepage": "https://github.com/EduardoMS027/stork-data-tools#readme"
+}
